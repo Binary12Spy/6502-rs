@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "editorconfig.editorconfig",
+        "1yib.rust-bundle",
+        "fill-labs.dependi",
+        "vadimcn.vscode-lldb",
+        "streetsidesoftware.code-spell-checker"
+    ]
+}

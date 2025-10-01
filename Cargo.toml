@@ -1,0 +1,12 @@
+[workspace]
+resolver = "2"
+members = [ "bus","cpu6502", "ram", "rom"]
+
+[workspace.lints.rust]
+missing_docs = "deny"
+unused_must_use = "deny"
+
+[workspace.lints.clippy]
+unwrap_used = "deny"
+expect_used = "deny"
+panic = "deny"
